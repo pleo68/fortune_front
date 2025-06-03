@@ -40,7 +40,6 @@
     "react-native-web": "~0.20.0",
     "react-native-webview": "13.13.5",
     "react-native-paper": "4.9.2",
-    "react-native-appwrite": "^18.0.0",
     "react-native-vector-icons": "^10.2.0"
   },
   "devDependencies": {

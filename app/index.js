@@ -2,11 +2,11 @@ import { ActivityIndicator, StatusBar, ScrollView, View, Text, Dimensions, Style
 import { NavigationContainer, Button } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import Openscreen from './screens/Openscreen';
-import Todayscreen from './screens/Todayscreen';
-import Taroscreen from './screens/Taroscreen';
-import Sajuscreen from './screens/Sajuscreen';
-import Profilescreen from './screens/Profilescreen';
+import Openscreen from '../screens/Openscreen';
+import Todayscreen from '../screens/Todayscreen';
+import Taroscreen from '../screens/Taroscreen';
+import Sajuscreen from '../screens/Sajuscreen';
+import Profilescreen from '../screens/Profilescreen';
 
 
 const Stack = createNativeStackNavigator();
